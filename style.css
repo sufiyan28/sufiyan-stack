@@ -1,0 +1,36 @@
+body {
+    background: #111;
+    color: #eee;
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    margin: 40px auto;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+a {
+    color: #66ccff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2 {
+    color: #fff;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    margin: 2em 0;
+}
+
+.date {
+    color: #aaa;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
+
